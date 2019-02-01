@@ -58,7 +58,7 @@ class BooksApp extends React.Component {
 // updates the state with the updated book
 
 this.setState(({ books }) => {
-
+// eslint-disable-next-line
          books: books.filter(b =>
            b.id === book.id ? b.shelf = shelfName : b // go through books if
            // the changed book is in the state
