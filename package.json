@@ -2,6 +2,7 @@
   "name": "My-Reads",
   "version": "0.1.0",
   "private": true,
+  "start": "react-scripts start",
   "engines": {
     "npm": "6.9.0",
     "node": "10.15.1"
