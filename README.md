@@ -1,6 +1,6 @@
 # MyReads Project
 
-React project that creates a bookshelf. This bookshelf allows a user to put searched books on to a bookself in 3 different categories: Read, Read already, Currently reading. 
+React project that creates a bookshelf. This bookshelf allows a user to organize searched books into 3 different categories: Read, Want to Read, Currently Reading. 
 
 Click here to use the app: https://my-reads-2.herokuapp.com/
 
