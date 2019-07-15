@@ -5,7 +5,11 @@ React project that creates a bookshelf. This bookshelf allows a user to organize
 Click here to use the app: https://my-reads-2.herokuapp.com/
 
 
-
+<p align="center">
+ 
+  
+  <img src="https://ibb.co/L0Bs2H3" width="250" title="hover text"> <h1>MyReads</h1>
+</p>
 
 ## Install
 
