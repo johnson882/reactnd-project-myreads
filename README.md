@@ -8,7 +8,7 @@ Click here to use the app: https://my-reads-2.herokuapp.com/
 <p align="center">
  
   
-  <img src="https://i.ibb.co/cyRs7Vj/Screen-Shot-2019-07-15-at-12-07-25-PM.png" width="250" title="hover text"> <h1>MyReads</h1>
+  <img src="https://i.ibb.co/cyRs7Vj/Screen-Shot-2019-07-15-at-12-07-25-PM.png" width="450" title="hover text"> <h1>MyReads</h1>
 </p>
 
 ## Install
