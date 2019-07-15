@@ -7,7 +7,7 @@ Click here to use the app: https://my-reads-2.herokuapp.com/
 
 
 
-## TL;DR
+## Install
 
 To get started developing right away (iOS):
 * Make sure git is installed: `$ git --version` will idicate if git is installed.
